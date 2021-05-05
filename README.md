@@ -1,10 +1,10 @@
 Coming Soon
 ===========
-Coming Soon is a simplistic, animated and responsive "coming soon" page.
+Coming Soon page for Realtors Plug
 
 - HTML and CSS
 - Multi-Browser Support (Up to Date Major Browsers)
 - Responsive Design
 
-[Demo](http://yc.github.io/coming-soon/)
-<img src="index.svg" width="960" height="540" />
+[Demo](https://admin.realtorsplug.com)
+<img src="screenshot.png" width="960" height="540" />
